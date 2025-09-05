@@ -1,4 +1,4 @@
-# Survival Prediction 🛳️
+# Titanic Survival Prediction 🛳️
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.25-orange?logo=scikitlearn)
@@ -95,4 +95,8 @@ Performance metrics:
 **Aldous Dsouza**  
 BSc Computer Science Graduate | Data Science Enthusiast  
 
+--- 
+
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork this repo and submit pull requests.  
 
